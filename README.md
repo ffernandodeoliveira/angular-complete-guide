@@ -29,3 +29,5 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 ## Comands
 
 $ npm install --save bootstrap@4
+$ ng generate component <component-name>
+$ ng g c <component-name>
